@@ -37,7 +37,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonseo8822"/>
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonseo8822](https://github-readme-stats.vercel.app/api?username=hyeonseo8822&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)"/>
   <br/>
 </div>
 
