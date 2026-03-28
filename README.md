@@ -1,7 +1,5 @@
 <div align="center">
 
-# 🌷 Hyeonseo's Dev Log 🌷
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FADADD&height=200&section=header&text=Welcome!&fontSize=50&fontColor=ffffff"/>
 
 ### 🐣 꾸준히 성장 중인 개발자
@@ -39,9 +37,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyeonseo8822&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonseo8822"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonseo8822&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
