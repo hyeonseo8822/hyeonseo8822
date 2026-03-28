@@ -4,8 +4,8 @@
 
 > 문제를 마주하면 포기하지 않고 끝까지 해결하려 합니다.  
 
-<a href="https://velog.io/@hyeonseo8822/posts">
-  <img src="https://velog.velcdn.com/images/velog/post/thumbnail.png" width="120"/>
+<a href="https://velog.io/@hyeonseo8822">
+  <img src="https://img.shields.io/badge/Velog-60%2B%20Posts-20C997?style=flat-square&logo=velog&logoColor=white"/>
 </a>
 
 [![gitanimals](https://render.gitanimals.org/farms/hyeonseo8822)](https://github.com/devxb/gitanimals)
