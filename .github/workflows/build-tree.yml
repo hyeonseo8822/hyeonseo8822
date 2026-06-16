@@ -2,12 +2,12 @@ name: Build Christmas Tree
 on:
   schedule:
     - cron: "0 18 * * *"   # 매일 한국 시간 새벽 3시에 자동 갱신
-  workflow_dispatch:        # 수동으로도 실행 가능하게 설정
+  workflow_dispatch:        
     inputs:
       theme:
         description: "Background theme"
         type: choice
-        default: default
+        default: winter   
         options: [default, space, winter, sky]
   push:
     branches: [main]
@@ -25,7 +25,7 @@ jobs:
         uses: chromeheartz/merry-gitmas@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          theme: ${{ inputs.theme || 'default' }}
+          theme: ${{ inputs.theme || 'winter' }}   
           width: 350
           output: profile-tree.svg
 
