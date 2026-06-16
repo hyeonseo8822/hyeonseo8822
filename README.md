@@ -13,6 +13,6 @@
     <img src="https://render.gitanimals.org/farms/hyeonseo8822" height="240" />
   </a>
   <a href="https://github.com/chromeheartz/merry-gitmas" style="display: inline-block; vertical-align: middle;">
-    <img src="./profile-tree.svg" height="240" />
+    <img src="./profile-tree.svg?v=1" height="240" />
   </a>
 </p>
