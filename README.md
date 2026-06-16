@@ -7,4 +7,12 @@
   <img src="https://img.shields.io/badge/Velog-60%2B%20Posts-20C997?style=flat-square&logo=velog&logoColor=white"/>
 </a>
 
-[![gitanimals](https://render.gitanimals.org/farms/hyeonseo8822)](https://github.com/devxb/gitanimals)
+
+<p align="left">
+  <a href="https://github.com/devxb/gitanimals" style="display: inline-block; vertical-align: middle; margin-right: 15px;">
+    <img src="https://render.gitanimals.org/farms/hyeonseo8822" height="240" />
+  </a>
+  <a href="https://github.com/chromeheartz/merry-gitmas" style="display: inline-block; vertical-align: middle;">
+    <img src="./profile-tree.svg" height="240" />
+  </a>
+</p>
